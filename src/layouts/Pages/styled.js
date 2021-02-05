@@ -1,6 +1,6 @@
 import { StyledCommons } from 'styled-commons'
 import styled from 'styled-components'
-const { Flex, FullSpace } = StyledCommons
+const { FullSpace } = StyledCommons
 
 export const PagesLayoutStyled = {
   Container: styled(FullSpace)`

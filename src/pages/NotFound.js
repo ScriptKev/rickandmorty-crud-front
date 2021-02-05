@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { Link } from 'wouter'
 import NotFoundBg from 'components/NotFoundBg'
 import { NotFoundStyled } from 'layouts/NotFound'
@@ -9,7 +11,7 @@ export default function NotFound() {
       <NotFoundBg />
       <Message>
         <span>404 Pagina no Encontrada</span> <br />
-        Ir a <Link to='/'><a>Personajes</a></Link>
+        Ir a <Link to='/'><a href=''>Personajes</a></Link>
       </Message>
     </Container>
   )

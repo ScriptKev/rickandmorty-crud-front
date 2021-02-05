@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { Link } from 'wouter'
 import { useCharacter } from 'hooks/useCharacter'
 import { CharacterStyled, StatusIcon } from './styled'
@@ -36,7 +38,7 @@ const Character = ({ id, image, name, species, status }) => {
         <Details>
           <Name>
             <Link href={`/personaje/${id}`}>
-              <a><h2>{name}</h2></a>
+              <a href=''><h2>{name}</h2></a>
             </Link>
           </Name>
           <StatusSpecies>

@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { useEffect, useContext } from 'react'
 import { getCharacters } from 'services/api'
 import CharactersList from 'components/CharactersList'

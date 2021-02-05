@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { Link } from 'wouter'
 import { NavbarMobileStyled } from './styled'
 const { Container, Main, Grid } = NavbarMobileStyled
@@ -9,21 +11,21 @@ const NavbarMobile = () => {
         <Grid>
           <div>
             <Link href='/personajes'>
-              <a>
+              <a href=''>
                 <h5>Personajes</h5>
               </a>
             </Link>
           </div>
           <div>
             <Link href='/lugares'>
-              <a>
+              <a href=''>
                 <h5>Lugares</h5>
               </a>
             </Link>
           </div>
           <div>
             <Link href='/episodios'>
-              <a>
+              <a href=''>
                 <h5>Episodios</h5>
               </a>
             </Link>

@@ -1,8 +1,7 @@
 import { ButtonStyled } from 'components/Button/styled'
 import { useCharacter } from 'hooks/useCharacter'
-import { SyntheticEvent } from 'react'
 import { FormStyled } from './styled'
-const { Container, Input, Main } = FormStyled
+const { Input } = FormStyled
 
 const Form = () => {
   const { createCharacter } = useCharacter()
