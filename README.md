@@ -1,4 +1,5 @@
 # Rick and Morty CRUD (Frontend)
+**Actualmente la aplicación aun esta en proceso de desarrollo, en la rama "road-to-finish" puedes encontrar el proceso para terminar la aplicación.**
 
 ![This is a alt text.](./src/assets/images/app-screenshot.PNG "Rick And Morty CRUD - Frontend App")
 
