@@ -1,6 +1,6 @@
 # Rick and Morty CRUD (Frontend)
 
-- ![This is a alt text.](./src/assets/images/app-screenshot.png "Rick And Morty CRUD - Frontend App")
+- ![This is a alt text.](./src/assets/images/app-screenshot.PNG "Rick And Morty CRUD - Frontend App")
 
 Aplicación web basada en la serie rick and morty, en esta app podras apreciar información de la serie, mas en especifico de sus personajes, lugares y episodios.
 
